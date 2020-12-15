@@ -1,0 +1,47 @@
+﻿h1{
+    text-align: center;
+    font: 45px Arial;
+}
+h2 {
+    text-align: center;
+    font: 45px Arial;
+    margin-top: 150px;
+}
+p {
+    margin-bottom: 50px;
+}
+.center-img {
+    display: block;
+    margin: 0 auto;
+}
+#text{
+    text-align:center;
+    font: 20px Arial;
+} 
+#tables {
+    margin: 0 auto;
+    max-width: 1274px;
+}
+table {
+    margin: 0 auto;
+    padding: 0;
+    background-color: #87cefa;
+    box-sizing: border-box;
+    border: 1px solid grey;
+    border-collapse: collapse;
+    width: 100%;
+}
+caption {
+    margin: 70px 0 10px 0;
+    text-align: left;
+    font: 31px Arial;
+    font-weight: 600;
+}
+th, td{    
+    border: 1px solid grey;
+    padding: 10px 20px;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 41px;
+    text-align: center;
+}

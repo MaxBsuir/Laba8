@@ -1,0 +1,9 @@
+{
+  "name": "laba8",
+  "version": "0.0.0",
+  "description": "Laba8",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
